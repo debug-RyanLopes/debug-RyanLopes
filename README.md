@@ -1,7 +1,7 @@
 ### Olá eu me chamo Ryan Oliveira !! 🖐🏽😄
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan--oliveira/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olv_ry4n/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan--oliveira/)
 
 
 ## Tecnologias que uso no meu dia a dia
@@ -44,4 +44,3 @@
 
 ## Contatos:
     ° email: ryanoliveiralopes8@gmail.com
-    ° telefone/Whatsapp: (92)99374-6050
